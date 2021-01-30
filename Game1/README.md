@@ -1,6 +1,6 @@
 # Introduction
 
-Simple snake game using turtle module.
+Simple snake game using pygame
 
 # Environment
 ```
