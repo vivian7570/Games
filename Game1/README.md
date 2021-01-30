@@ -1,5 +1,5 @@
 # Introduction
-Snake Game with Python
+
 Simple snake game using turtle module.
 
 # Environment
@@ -16,7 +16,5 @@ Step2:
 run "SnakeGame.main.py"
 ```
 
-# Reference
-https:
 # Game Display
 ![RUNNING IMAGE](demonstration/running.gif)
