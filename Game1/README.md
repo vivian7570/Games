@@ -1,5 +1,6 @@
 # Introduction
-https://mp.weixin.qq.com/s/_-AChGldQzdwXN-ljcCMFQ
+Snake Game with Python
+Simple snake game using turtle module.
 
 # Environment
 ```
@@ -12,11 +13,10 @@ Python: Python3.5+(have installed necessary dependencies)
 Step1:
 pip install -r requirements.txt
 Step2:
-run "python Game1.py"
+run "SnakeGame.main.py"
 ```
 
 # Reference
-https://www.raywenderlich.com/24252/beginning-game-programming-for-teens-with-python
-
+https:
 # Game Display
-![giphy](demonstration/running.gif)
+![RUNNING IMAGE](demonstration/running.gif)
