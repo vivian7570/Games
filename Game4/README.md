@@ -1,5 +1,5 @@
 # Introduction
-https://mp.weixin.qq.com/s/2MVTEa4ut9TOAgBOOWEUSg
+Simple ski game using PyGame
 
 # Environment
 ```
@@ -12,8 +12,8 @@ Python: Python3.5+(have installed necessary dependencies)
 Step1:
 pip install -r requirements.txt
 Step2:
-run "python Game4.py"
+run "python Ski.py"
 ```
 
 # Game Display
-![giphy](demonstration/running.gif)
+![IMAGE](demonstration/running.gif)
