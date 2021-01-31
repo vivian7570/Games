@@ -1,5 +1,5 @@
 # Introduction
-https://mp.weixin.qq.com/s/C6v0Zj8-fhysqRQ_lcEZIQ
+The Ping-Pong Game using the spirites and utils
 
 # Environment
 ```
@@ -12,8 +12,8 @@ Python: Python3.5+(have installed necessary dependencies)
 Step1:
 pip install -r requirements.txt
 Step2:
-run "python Game17.py"
+run "python Ping-PongGame.main.py"
 ```
 
 # Game Display
-![giphy](demonstration/running.gif)
+![TextImage](demonstration/running.gif)
